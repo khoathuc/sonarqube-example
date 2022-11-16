@@ -109,7 +109,8 @@ The only prerequisite of running SonarQube is to have Java (Oracle JRE 8 or Open
    ```
 ## Run the sonar-scanner
 
-    Got to root directory of your project folder where you have created the `sonar-projects.properties` file and run the below command:
+   Go to root directory of your project folder where you have created the `sonar-projects.properties` file and run the 
+   below command:
    ```
     ~<root path of your project> $ sonar-scanner
    ```
